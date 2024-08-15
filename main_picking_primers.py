@@ -1,15 +1,4 @@
 # PICK PRIMERS
-"""
-- Largo mínimo 17 bp
-- No primer dimer; No más de 2 nucleótidos complementados en los últimos 4 nucleótidos del 3' end de los
-  dos primers
-- Al menos 50% GC content
-- Extremo 3' G o C
-- T anneling 50-65 °C
-- Diferencia máxima entre los primers de 5°C
-- No hairpin; no mas de 2 nucleótidos haciendo hairpin (no entiendo muy bien esto)
-"""
-
 
 class Primer:
 
